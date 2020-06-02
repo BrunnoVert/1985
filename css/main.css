@@ -427,7 +427,7 @@ body.mobile-nav-active #mobile-nav-toggle{color:#fff;}
 .primary-btn.white:hover{background:#fff;color:#235ee7;}
 .primary-btn.white:hover span{color:#235ee7;}
 .overlay{position:absolute;left:0;right:0;top:0;bottom:0;}
-.banner-area{background:url(../img/header-bg-fixed.jpg) center;background-size:cover;}
+.banner-area{background:url(../img/header-bg-fixed-min.jpg) center;background-size:cover;}
 @media (max-width:1199.98px){.banner-area .fullscreen{height:100vh !important;}
 }
 .banner-content{margin-top:-325px;text-align:center;}
